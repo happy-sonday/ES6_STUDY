@@ -184,9 +184,3 @@ console.log(name, age, profession);
 fncParam({name:"민호로 변경", age:35})
 
 
-/* arrow function */
-
-let circleArea = (pi, r) => pi * r *r;
-let result_area = circleArea(3.14, 3);
-
-console.log(result_area);
